@@ -130,16 +130,3 @@ class Batch:
         tgt_mask = (tgt != pad).unsqueeze(-2)
         tgt_mask = tgt_mask & Variable(subsequent_mask(tgt.size(-1)).type_as(tgt_mask.data))
         return tgt_mask        
-
-
-    
-
-
-
-
-    
-
-    
-
-    
-
