@@ -20,7 +20,7 @@ he was very old .
 他 很 老 。
 
 do you have kids ? 
- 你 們 有 孩 子 嗎 ？
+你 們 有 孩 子 嗎 ？
 ```
 ## 预训练模型
 + .pth格式的预训练模型如下。<br>
