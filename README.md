@@ -1,4 +1,4 @@
-# Transformer   Pytorch实现的简单机器翻译
+# Transformer   Pytorch实现的简单英中机器翻译
 ## 部分机器翻译结果
 ``` bash
 take care . 
